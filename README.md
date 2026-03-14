@@ -8,6 +8,7 @@
 * Lua
 * PHP
 * JS/TS
+<img width="480" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dronnis&layout=compact&theme=github_dark&count_private=true&hide_border=false"/>
 
 
 <img width="480" src="https://github-readme-stats-fast.vercel.app/api?username=Dronnis&show_icons=true&theme=github_dark&count_private=true&hide_border=true"/>
