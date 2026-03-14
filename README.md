@@ -12,4 +12,4 @@
 
 <img width="480" src="https://github-readme-stats-fast.vercel.app/api?username=Dronnis&show_icons=true&theme=github_dark&count_private=true&hide_border=true"/>
 
-<img src="https://count.getloli.com/get/Dronnis?theme=rule34"/>
+<img src="https://count.getloli.com/get/@Dronnis?theme=rule34"/>
