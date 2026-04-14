@@ -5,6 +5,7 @@
 * Python
 * GO
 * Rust
+* C/C++
 * Lua
 * PHP
 * JS/TS
